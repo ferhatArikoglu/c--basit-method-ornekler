@@ -1,0 +1,14 @@
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\bin\Debug\netcoreapp3.1\methodall.exe
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\bin\Debug\netcoreapp3.1\methodall.deps.json
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\bin\Debug\netcoreapp3.1\methodall.runtimeconfig.json
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\bin\Debug\netcoreapp3.1\methodall.runtimeconfig.dev.json
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\bin\Debug\netcoreapp3.1\methodall.dll
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\bin\Debug\netcoreapp3.1\methodall.pdb
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\obj\Debug\netcoreapp3.1\methodall.csproj.AssemblyReference.cache
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\obj\Debug\netcoreapp3.1\methodall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\obj\Debug\netcoreapp3.1\methodall.AssemblyInfoInputs.cache
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\obj\Debug\netcoreapp3.1\methodall.AssemblyInfo.cs
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\obj\Debug\netcoreapp3.1\methodall.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\obj\Debug\netcoreapp3.1\methodall.dll
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\obj\Debug\netcoreapp3.1\methodall.pdb
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metodlarla ilgili herşey\methodall\methodall\obj\Debug\netcoreapp3.1\methodall.genruntimeconfig.cache
